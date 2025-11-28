@@ -2,5 +2,5 @@
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 arch = "arm64-v8a"
 build-mode = "module"
-version = "latest"
+version = "auto"
 excluded-patches = "'Custom branding' 'Change header' 'Hide Shorts components' 'Return YouTube Dislike' 'Theme' 'Bypass image region restrictions' 'Disable haptic feedback' 'Bypass URL redirects'"
